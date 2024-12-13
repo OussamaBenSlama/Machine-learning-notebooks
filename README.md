@@ -5,7 +5,7 @@ Welcome to the **Machine Learning Notebooks** repository! This repository contai
 Each notebook contains detailed explanations of the problem statement, the data used, and the solution approach. The notebooks are organized by topics and can be used as learning resources for anyone interested in machine learning.
 
 ## Table of Contents
-1. [Anime Dataset Analysis:](./Data%20visualisation/Analysing%20Anime%20Data/Anime-Dataset-Analysis.ipynb)
+1. [Anime Dataset Analysis:](./Data%20visualization/Analyzing%20Anime%20Data/Anime-Dataset-Analysis.ipynb)
 
 ## How to Use
 
