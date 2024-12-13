@@ -11,7 +11,7 @@ Each notebook contains detailed explanations of the problem statement, the data 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Machine-learning-notebooks.git
+   https://github.com/OussamaBenSlama/Machine-learning-notebooks.git
 2. Create a virtual environment:
    ```bash
    python3 -m venv myenv
