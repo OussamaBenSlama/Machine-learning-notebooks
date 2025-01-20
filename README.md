@@ -5,7 +5,8 @@ Welcome to the **Machine Learning Notebooks** repository! This repository contai
 Each notebook contains detailed explanations of the problem statement, the data used, and the solution approach. The notebooks are organized by topics and can be used as learning resources for anyone interested in machine learning.
 
 ## Table of Contents
-1. [Anime Dataset Analysis:](./Data%20visualization/Analyzing%20Anime%20Data/Anime-Dataset-Analysis.ipynb)
+- [KNN](./KNN/knn.ipynb)
+- [Anime Dataset Analysis:](./Data%20visualization/Anime-Dataset-Analysis.ipynb)
 
 ## How to Use
 
@@ -15,8 +16,8 @@ Each notebook contains detailed explanations of the problem statement, the data 
 2. Create a virtual environment:
    ```bash
    python3 -m venv .venv
-   source .venv/bin/activate  # For macOS/Linux
-   .venv\Scripts\activate  # For Windows
+   source .venv/bin/activate 
+   .venv\Scripts\activate
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
